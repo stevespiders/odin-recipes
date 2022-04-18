@@ -1,0 +1,1 @@
+Thanks for reading me :) I'm building a simple web page as part of the odin-project online web developer series. This is very exciting as I'm going to learn file management, html webpage creation, and many more things. Thanks for looking! 
